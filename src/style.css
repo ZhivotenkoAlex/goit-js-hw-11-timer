@@ -1,0 +1,37 @@
+.body {
+    max-width: 1200px;
+}
+
+.timer {
+    display: flex;
+    font-size: 80px;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    color: antiquewhite;
+    font-family: fantasy;
+}
+
+.field {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background: #454343d6;
+    width: 300px;
+    margin: 3px;
+}
+
+.label {
+    font-style: italic;
+}
+
+.title {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    color: rgba(255, 72, 0, 0.753);
+    font-family: fantasy;
+    font-size: 50px;
+}
